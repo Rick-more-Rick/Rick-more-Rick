@@ -6,7 +6,7 @@
 - https://www.youtube.com/@RickplusRick
 - https://www.tiktok.com/@the_rick_more_rick
 - https://discord.gg/kWxbezK6
-- https://www.instagram.com/rick_more_rick/
+- https://instagram.com/rick_more_rick?igshid=OTZybHVwZGxuYnEx
 
 <!---
 Rick-more-Rick/Rick-more-Rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
